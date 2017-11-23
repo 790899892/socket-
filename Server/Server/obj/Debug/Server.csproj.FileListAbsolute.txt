@@ -1,0 +1,5 @@
+C:\Users\a\Desktop\Server\Server\bin\Debug\ServerGame.exe.config
+C:\Users\a\Desktop\Server\Server\bin\Debug\ServerGame.exe
+C:\Users\a\Desktop\Server\Server\bin\Debug\ServerGame.pdb
+C:\Users\a\Desktop\Server\Server\obj\Debug\ServerGame.exe
+C:\Users\a\Desktop\Server\Server\obj\Debug\ServerGame.pdb
